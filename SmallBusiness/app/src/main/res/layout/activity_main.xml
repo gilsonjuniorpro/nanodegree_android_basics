@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_title"
+        android:padding="@dimen/default_padding"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="@dimen/default_title"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/churros"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_subtitle"
+        android:padding="@dimen/default_padding"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="@dimen/default_subtitle"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/idmini"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/mini"
+            android:scaleType="centerCrop"
+            android:layout_margin="@dimen/small_margin"
+            />
+
+        <TextView
+            android:id="@+id/idinstagram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_instagram"
+            android:padding="@dimen/default_padding"
+            android:textAlignment="center"
+            android:textSize="@dimen/default_subtitle"
+            android:layout_toRightOf="@id/idmini"
+            />
+
+        <TextView
+            android:id="@+id/idlocalization"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_localization"
+            android:padding="@dimen/default_padding"
+            android:textAlignment="center"
+            android:textSize="@dimen/default_subtitle"
+            android:layout_toRightOf="@id/idmini"
+            android:layout_below="@id/idinstagram"
+            />
+
+        <TextView
+            android:id="@+id/idphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_phone"
+            android:padding="@dimen/default_padding"
+            android:textAlignment="center"
+            android:textSize="@dimen/default_subtitle"
+            android:layout_toRightOf="@id/idmini"
+            android:layout_below="@id/idlocalization"
+            />
+
+        <TextView
+            android:id="@+id/idtime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_time"
+            android:padding="@dimen/default_padding"
+            android:textAlignment="center"
+            android:textSize="@dimen/default_subtitle"
+            android:layout_below="@id/idphone"
+            />
+
+        <Button
+            android:id="@+id/idcontact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_padding"
+            android:text="@string/bt_contact"
+            android:layout_below="@id/idtime"
+            android:layout_alignParentRight="true"
+            />
+
+        <TextView
+            android:id="@+id/idaddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_address"
+            android:padding="@dimen/default_padding"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="@dimen/default_subtitle"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/idcontact"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

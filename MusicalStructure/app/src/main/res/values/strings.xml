@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="title_detail"></string>
+    <string name="title_songs">Musical Structure - Songs</string>
+    <string name="title_artists">Musical Structure - Artists</string>
+    <string name="title_playing">Musical Structure - Playing</string>
+    <string name="description_artists">Top Artists</string>
+    <string name="description_songs">Top Songs</string>
+    <string name="description_playing">Playing Now</string>
+
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+
+    <string name="artist1">The Cranberries</string>
+
+    <string name="title_song1_artist1">Zombie</string>
+    <string name="title_song2_artist1">Linger</string>
+    <string name="title_song3_artist1">Just My Imagination</string>
+    <string name="title_song4_artist1">Dreams</string>
+    <string name="title_song5_artist1">Animal Instinct</string>
+    <string name="title_song6_artist1">Dreaming My Dreams</string>
+
+    <string name="time_song1_artist1">4:23</string>
+    <string name="time_song2_artist1">4:13</string>
+    <string name="time_song3_artist1">4:33</string>
+    <string name="time_song4_artist1">4:43</string>
+    <string name="time_song5_artist1">4:53</string>
+    <string name="time_song6_artist1">5:23</string>
+
+    <string name="artist2">Lana Del Rey</string>
+
+    <string name="title_song1_artist2">Dark Paradise</string>
+    <string name="title_song2_artist2">Love</string>
+    <string name="title_song3_artist2">Born To Die</string>
+    <string name="title_song4_artist2">Ride</string>
+    <string name="title_song5_artist2">Sad Girl</string>
+    <string name="title_song6_artist2">Gods And Monsters</string>
+
+    <string name="time_song1_artist2">5:23</string>
+    <string name="time_song2_artist2">5:13</string>
+    <string name="time_song3_artist2">5:33</string>
+    <string name="time_song4_artist2">5:43</string>
+    <string name="time_song5_artist2">5:53</string>
+    <string name="time_song6_artist2">4:23</string>
+
+    <string name="artist3">John Legend</string>
+
+    <string name="title_song1_artist3">All Of Me</string>
+    <string name="title_song2_artist3">Love Me Now</string>
+    <string name="title_song3_artist3">Ordinary People</string>
+    <string name="title_song4_artist3">Darkness And Light</string>
+    <string name="title_song5_artist3">Save Room</string>
+    <string name="title_song6_artist3">One Woman Man</string>
+
+    <string name="time_song1_artist3">3:23</string>
+    <string name="time_song2_artist3">4:31</string>
+    <string name="time_song3_artist3">5:56</string>
+    <string name="time_song4_artist3">4:34</string>
+    <string name="time_song5_artist3">5:02</string>
+    <string name="time_song6_artist3">6:03</string>
+
+    <string name="artist4">Passenger</string>
+
+    <string name="title_song1_artist4">Let Her Go</string>
+    <string name="title_song2_artist4">Beautiful Birds</string>
+    <string name="title_song3_artist4">When We Were Young</string>
+    <string name="title_song4_artist4">Home</string>
+    <string name="title_song5_artist4">Everything</string>
+    <string name="title_song6_artist4">If You Go</string>
+
+    <string name="time_song1_artist4">5:15</string>
+    <string name="time_song2_artist4">4:31</string>
+    <string name="time_song3_artist4">5:56</string>
+    <string name="time_song4_artist4">4:34</string>
+    <string name="time_song5_artist4">5:02</string>
+    <string name="time_song6_artist4">6:03</string>
+
+    <string name="artist5">Coldplay</string>
+
+    <string name="title_song1_artist5">The Scientist</string>
+    <string name="title_song2_artist5">Fix You</string>
+    <string name="title_song3_artist5">Hypnotised</string>
+    <string name="title_song4_artist5">Magic</string>
+    <string name="title_song5_artist5">A Sky Full Of Stars</string>
+    <string name="title_song6_artist5">Clocks</string>
+
+    <string name="time_song1_artist5">5:15</string>
+    <string name="time_song2_artist5">4:31</string>
+    <string name="time_song3_artist5">5:56</string>
+    <string name="time_song4_artist5">4:34</string>
+    <string name="time_song5_artist5">5:02</string>
+    <string name="time_song6_artist5">6:03</string>
+
+    <string name="artist6">4 Non Blondes</string>
+
+    <string name="title_song1_artist6">What’s up</string>
+    <string name="title_song2_artist6">Superfly</string>
+    <string name="title_song3_artist6">Spaceman</string>
+    <string name="title_song4_artist6">In My Dreams</string>
+    <string name="title_song5_artist6">Misty Mountain Hop</string>
+    <string name="title_song6_artist6">Beautiful</string>
+
+    <string name="time_song1_artist6">5:15</string>
+    <string name="time_song2_artist6">4:31</string>
+    <string name="time_song3_artist6">5:56</string>
+    <string name="time_song4_artist6">4:34</string>
+    <string name="time_song5_artist6">5:02</string>
+    <string name="time_song6_artist6">6:03</string>
+
+    <string name="artist1album1">No Need to Argue</string>
+    <string name="artist1album2">Bury the Hatchet</string>
+    <string name="artist1album3">Everybody Else Is Doing It, So Why Can’t We?</string>
+
+    <string name="artist2album1">Honeymoon</string>
+    <string name="artist2album2">Ultraviolence</string>
+    <string name="artist2album3">Die for Me</string>
+
+    <string name="artist3album1">Darkness and Light</string>
+    <string name="artist3album2">Love in the Future</string>
+    <string name="artist3album3">wake up!</string>
+
+    <string name="artist4album1">Whispers</string>
+    <string name="artist4album2">All the Little Lights</string>
+    <string name="artist4album3">Divers and Submarines</string>
+
+    <string name="artist5album1">Ghost Stories</string>
+    <string name="artist5album2">Parachutes</string>
+    <string name="artist5album3">A Head Full of Dreams</string>
+
+    <string name="artist6album1">Blast off</string>
+    <string name="artist6album2">Bigger, Better, Faster, More!</string>
+    <string name="artist6album3">Drifting</string>
+
+</resources>

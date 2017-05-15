@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!--Popular-->
+    <string name="title_magnetic_hill_zoo">Magnetic Hill Zoo, Moncton</string>
+    <string name="category_magnetic_hill_zoo">Zoos and Aquariums, Nature and Parks, Outdoor Activities</string>
+    <string name="duration_magnetic_hill_zoo">3 hours</string>
+    <string name="contact_magnetic_hill_zoo">125 Magic Mountain Rd, Moncton, NB E1G 4V7, Canada, +1 506-877-7720</string>
+
+    <string name="title_casino_new_brunswick">Casino New Brunswick, Moncton</string>
+    <string name="category_casino_new_brunswick">Casinos and Gambling, Fun and Games</string>
+    <string name="duration_casino_new_brunswick">2h 30 min</string>
+    <string name="contact_casino_new_brunswick">21 Casino Dr, Moncton, NB E1G 0R7, Canada, +1 877-859-7775</string>
+
+    <string name="title_tidal_bore">Tidal Bore, Moncton</string>
+    <string name="category_tidal_bore">Landmarks, Tourist Spots</string>
+    <string name="duration_tidal_bore">1h 30 min</string>
+    <string name="contact_tidal_bore">1234 Main St, Moncton, New Brunswick E1C 1H7, Canada, +1 506-853-3590</string>
+
+
+
+
+    <!--Side Trip-->
+    <string name="title_fundy_national_park">Fundy National Park, Alma</string>
+    <string name="category_fundy_national_park">National Parks, Nature and Parks</string>
+    <string name="duration_fundy_national_park">8 hours</string>
+    <string name="contact_fundy_national_park">Alma, New Brunswick E4H 1B4, Canada, +1 506-887-6000</string>
+
+    <string name="title_parlee_beach">Parlee Beach Provincial Park, Shediac</string>
+    <string name="category_parlee_beach">Beaches, Nature and Parks, Outdoor Activities</string>
+    <string name="duration_parlee_beach">3 hours</string>
+    <string name="contact_parlee_beach">45 Ch Parlee Beach, Shediac, New Brunswick E4P 8V5, Canada, +1 506-533-3363</string>
+
+    <string name="title_hopewell_rocks">Hopewell Rocks, Hopewell Cape</string>
+    <string name="category_hopewell_rocks">State Parks, Geologic Formations, Nature and Parks</string>
+    <string name="duration_hopewell_rocks">30 minutes</string>
+    <string name="contact_hopewell_rocks">131 Discovery Rd, Hopewell Cape, New Brunswick E4H 4Z5, Canada, +1 877-734-3429</string>
+
+
+
+
+    <!--Museums-->
+    <string name="title_magnetic_hill_park">Magnetic Hill Park, Moncton</string>
+    <string name="category_magnetic_hill_park">Natural History Museums, Mysterious Sites, Museums, Tourist Spots</string>
+    <string name="duration_magnetic_hill_park">2 hours</string>
+    <string name="contact_magnetic_hill_park">50 Magic Mountain Rd, Moncton, NB E1G 0J3, Canada, +1 506-858-8841</string>
+
+    <string name="title_resurgo_place">Resurgo Place, Moncton</string>
+    <string name="category_resurgo_place">Specialty Museums, Museums</string>
+    <string name="duration_resurgo_place">3 hours</string>
+    <string name="contact_resurgo_place">20 Mountain Rd, Moncton, NB E1C 2T1, Canada, +1 506-856-4383</string>
+
+    <string name="title_acadian_museum">Acadian Museum (Musee Acadien), Moncton</string>
+    <string name="category_acadian_museum">History Museums, Museums</string>
+    <string name="duration_acadian_museum">1h 30 min</string>
+    <string name="contact_acadian_museum">Pavillon Clément-Cormier, 405 Université Ave, Moncton, NB E1A 3E9, Canada, +1 506-858-4088</string>
+
+
+
+
+    <!--Hidden Gems-->
+    <string name="title_irishtown">Irishtown Nature Park, Moncton</string>
+    <string name="category_irishtown">Wildlife Areas, Nature and Parks</string>
+    <string name="duration_irishtown">3 hours</string>
+    <string name="contact_irishtown">Elmwood Drive, Moncton, New Brunswick E1H 2H7, Canada, +1 506-853-3516</string>
+
+    <string name="title_mapleton">Mapleton Park, Moncton</string>
+    <string name="category_mapleton">Nature and Parks</string>
+    <string name="duration_mapleton">3 hours</string>
+    <string name="contact_mapleton">600 Mapleton Rd, Moncton, NB E1G 0N3, Canada, +1 506-853-3516</string>
+
+    <string name="title_magnetic_hill_winery">Magnetic Hill Winery, Moncton</string>
+    <string name="category_magnetic_hill_winery">Wineries and Vineyards, Food and Drink</string>
+    <string name="duration_magnetic_hill_winery">1h 30 min</string>
+    <string name="contact_magnetic_hill_winery">860 Front Mountain Rd, Moncton, NB E1G 3H3, Canada, +1 506-384-9463</string>
+
+</resources>

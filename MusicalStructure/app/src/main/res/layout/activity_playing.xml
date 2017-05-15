@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.musicalstructure.br.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/medium_margin"
+            android:text="@string/description_playing"
+            android:textAlignment="center"
+            android:textSize="@dimen/font_title"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/viewSong"
+            style="@style/SongStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:layout_margin="@dimen/medium_margin">
+
+            <LinearLayout
+                android:id="@+id/viewControl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@color/colorBlack"
+                >
+
+                <ImageView
+                    android:id="@+id/ivPrevious"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:src="@drawable/ic_skip_previous_white_48dp"
+                    />
+
+                <ImageView
+                    android:id="@+id/ivPlay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:src="@drawable/ic_pause_circle_outline_white_48dp"
+                    />
+
+                <ImageView
+                    android:id="@+id/ivNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:src="@drawable/ic_skip_next_white_48dp"
+                    />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvSong"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/font_song"
+                android:layout_below="@id/viewControl"
+                />
+
+            <TextView
+                android:id="@+id/tvArtist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/font_artist"
+                android:layout_below="@id/tvSong"
+                android:layout_marginLeft="@dimen/medium_margin"
+                />
+
+            <TextView
+                android:id="@+id/tvTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/tvSong"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/font_time"
+                />
+
+            <TextView
+                android:id="@+id/tvAlbum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tvArtist"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/font_album"
+                android:layout_marginLeft="@dimen/medium_margin"
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>

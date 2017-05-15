@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Churros - Small Business</string>
+
+    <string name="tv_title">Delicious Brazilian Churros</string>
+
+    <string name="tv_subtitle">The best Churros in Brazil</string>
+
+    <string name="tv_instagram">\@churrosechurros</string>
+
+    <string name="tv_localization">Curitiba, Brazil</string>
+
+    <string name="tv_phone">Call (41) 99965-7012</string>
+
+    <string name="tv_address">Quari Street 69</string>
+
+    <string name="tv_time">From 09:00 AM to 05:00 PM</string>
+
+    <string name="bt_contact">Contact</string>
+
+</resources>

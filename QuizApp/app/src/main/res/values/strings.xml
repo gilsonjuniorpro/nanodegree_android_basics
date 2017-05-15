@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="title">Game Of Thrones</string>
+    <string name="question_1">1 - Who were Daenerys parents?</string>
+    <string name="question_2">2 - Who is Brandon Stark?</string>
+    <string name="question_3">3 - Which dragon was called "the black dread"?</string>
+    <string name="question_4">4 - Where does Petyr come from?</string>
+    <string name="question_5">5 - Who was Cersei supposed to Marry?</string>
+    <string name="question_6">6 - Who is Tysha?</string>
+    <string name="question_7">7 - Who was Jaime supposed to Marry?</string>
+    <string name="question_8">8 - Why did Jaime kill king Aerys II?</string>
+    <string name="question_9">9 - Why did Robert Rebel?</string>
+    <string name="question_10">10 - What does "Valar Doharis" mean?</string>
+    <string name="question_11">11 - Who are Ned’s Stark sons?</string>
+    <string name="question_12">12 - What GoT means?</string>
+
+    <string name="bt_submit">Submit</string>
+
+    <string name="possible_answer_1_1">Aemon and Ellia</string>
+    <string name="possible_answer_1_2">Aerys II and Rhaella</string>
+    <string name="possible_answer_1_3">Aegon and Rhaenys</string>
+    <string name="possible_answer_1_4">Duncan and Daenerys</string>
+
+    <string name="possible_answer_2_1">Ned’s father</string>
+    <string name="possible_answer_2_2">Ned’s son</string>
+    <string name="possible_answer_2_3">Ned’s brother</string>
+    <string name="possible_answer_2_4">Ned’s grandchild</string>
+
+    <string name="possible_answer_3_1">Meraxes</string>
+    <string name="possible_answer_3_2">Drogon</string>
+    <string name="possible_answer_3_3">Vhagar</string>
+    <string name="possible_answer_3_4">Balerion</string>
+
+    <string name="possible_answer_4_1">The Fingers</string>
+    <string name="possible_answer_4_2">Riverrun</string>
+    <string name="possible_answer_4_3">Braavos</string>
+    <string name="possible_answer_4_4">The Eyrie</string>
+
+    <string name="possible_answer_5_1">Robert Baratheon</string>
+    <string name="possible_answer_5_2">Eddard Stark</string>
+    <string name="possible_answer_5_3">Stannis Baratheon</string>
+    <string name="possible_answer_5_4">Rhaegar Targaryen</string>
+
+    <string name="possible_answer_6_1">Tywin’s wife</string>
+    <string name="possible_answer_6_2">Tyrion’s ex-wife</string>
+    <string name="possible_answer_6_3">Jaime’s ex-wife</string>
+    <string name="possible_answer_6_4">Cersei’s best friend</string>
+
+    <string name="possible_answer_7_1">Lysa Arryn</string>
+    <string name="possible_answer_7_2">Catelyn Stark</string>
+    <string name="possible_answer_7_3">Daenerys Targaryen</string>
+    <string name="possible_answer_7_4">Cersei Lannister</string>
+
+    <string name="possible_answer_8_1">Aerys II held Jaime hostage because he didn’t trust Tywin.</string>
+    <string name="possible_answer_8_2">He wanted to become famous.</string>
+    <string name="possible_answer_8_3">His father asked him to kill Aerys II because they hated each other.</string>
+    <string name="possible_answer_8_4">Aerys II planned to burn the entire city to the ground rather than lose it to Robert.</string>
+
+    <string name="possible_answer_9_1">Rhaegar Targaryen kidnapped Lyanna Stark and Aerys II killed Eddard’s brother and father.</string>
+    <string name="possible_answer_9_2">Because Aerys II was crazy and the people deserved a better king.</string>
+    <string name="possible_answer_9_3">We don’t know.</string>
+    <string name="possible_answer_9_4">Because it was the only way he could marry Cersei.</string>
+
+    <string name="possible_answer_10_1">All men must die</string>
+    <string name="possible_answer_10_2">Everyone must die</string>
+    <string name="possible_answer_10_3">All men must serve</string>
+    <string name="possible_answer_10_4">I have three dragons</string>
+
+    <string name="possible_answer_11_1">Robb Stark</string>
+    <string name="possible_answer_11_2">Sansa Stark</string>
+    <string name="possible_answer_11_3">Arya Stark</string>
+    <string name="possible_answer_11_4">Bran Stark</string>
+    <string name="possible_answer_11_5">Rickon Stark</string>
+    <string name="possible_answer_11_6">Jon Snow</string>
+    <string name="possible_answer_11_7">Joffrey Baratheon</string>
+    <string name="possible_answer_11_8">Theon Greyjoy</string>
+
+</resources>

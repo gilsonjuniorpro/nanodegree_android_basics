@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.musicalstructure.br.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/medium_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/medium_margin"
+            android:text="@string/description_artists"
+            android:textAlignment="center"
+            android:textSize="@dimen/font_title"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/artist1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist1"
+            style="@style/ArtistStyle"
+            android:background="@color/colorAccent"
+            />
+
+        <TextView
+            android:id="@+id/artist2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist2"
+            style="@style/ArtistStyle"
+            android:background="@color/colorLightOrange"
+            />
+
+        <TextView
+            android:id="@+id/artist3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist3"
+            style="@style/ArtistStyle"
+            android:background="@color/colorAccent"
+            />
+
+        <TextView
+            android:id="@+id/artist4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist4"
+            style="@style/ArtistStyle"
+            android:background="@color/colorLightOrange"
+            />
+
+        <TextView
+            android:id="@+id/artist5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist5"
+            style="@style/ArtistStyle"
+            android:background="@color/colorAccent"
+            />
+
+        <TextView
+            android:id="@+id/artist6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/artist6"
+            style="@style/ArtistStyle"
+            android:background="@color/colorLightOrange"
+            />
+
+    </LinearLayout>
+</ScrollView>
